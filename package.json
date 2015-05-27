@@ -1,0 +1,15 @@
+{
+  "name": "yelp-orientdb",
+  "description": "Sample scripts to import the yelp academic/challenge datasets into orientdb for analysis. Check out http://www.amitdeshmukh.co/import-yelp-dataset-orientdb-graph-database/ for an indepth post.",
+  "author": "Amit Deshmukh <amit.deshmuk@gmail.com>",
+  "dependencies": {
+    "oriento": "1.1.3",
+    "line-by-line": "0.1.3",
+    "async": "1.0.0"
+  },
+  "repository" : { 
+   "type" : "git",
+   "url" : "http://github.com/amitdeshmukh/yelp-orientdb.git"
+ },
+  "engine": "node >= 0.10.x"
+}
