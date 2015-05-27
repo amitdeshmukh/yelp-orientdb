@@ -23,12 +23,12 @@ You may also need to download the Yelp Dataset from here: <http://www.yelp.com/d
 
 - Import Yelp data for businesses:  
 
-`node yelp-nodes.js business.json`
+    `node yelp-nodes.js business.json`
 
 - Import Users
 
-`node yelp-nodes.js users.json`
+    `node yelp-nodes.js users.json`
 
 - Import Reviews
 
-`node yelp-edges.js review.json`
+    `node yelp-edges.js review.json`
