@@ -21,14 +21,14 @@ You will need to have [OrientDB](http://orientdb.com/) graph database installed.
 
 You may also need to download the Yelp Dataset from here: <http://www.yelp.com/dataset_challenge>
 
-Import Yelp data for businesses:  
+- Import Yelp data for businesses:  
 
 `node yelp-nodes.js business.json`
 
-Import Users
+- Import Users
 
 `node yelp-nodes.js users.json`
 
-Import Reviews
+- Import Reviews
 
 `node yelp-edges.js review.json`
